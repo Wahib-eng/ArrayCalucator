@@ -30,7 +30,7 @@ public class Main{
                             array[r][c] = in.nextInt();
                         }
                     }
-                    System.out.println("أدخل عناصر المصفوفة الثانية : ");
+                    System.out.println("أدخل عناصر المصفوفة الثانية: ");
                     for (int r = 0; r < rowsOfArray2; r++) {
                         for (int c = 0; c < columnOfArray2; c++) {
                             System.out.printf(" أدخل العنصر [%d][%d] :\n ", r, c);
